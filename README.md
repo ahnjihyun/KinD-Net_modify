@@ -2,7 +2,7 @@
 <br>
 
 해당 코드는 저조도 개선 분야의 Kindling the Darkness(2019) 라는 논문의 코드를 수정한 것입니다 <br>
-> Original Code Link : [githyb](https://github.com/zhangyhuaee/KinD)
+> Original Code Link : [github](https://github.com/zhangyhuaee/KinD)
 
 <br><br>
 
