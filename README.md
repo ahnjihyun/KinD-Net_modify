@@ -29,6 +29,6 @@
 ---- 
 <br>
 현재 KinD Net의 업그레이드 버전인 KinD++ Net이 나와있습니다
-KinD Net의 두번째 서브넷인 Reflectance Restoration Net의 성능을 개선해 전체 네트워크의 성능을 높인 모델입니다 <br>
+KinD Net의 두번째 서브넷인 Reflectance Restoration Net의 성능을 개선해 전체 네트워크의 성능을 높인 모델입니다 
 > Link : [github](https://github.com/zhangyhuaee/KinD_plus) 
 <br>
